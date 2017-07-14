@@ -1,8 +1,0 @@
-Dependencies:
-cloud.jpg
-game-background.jpg
-hole.png
-mario.png
-//mariorun.png
-//mariorun2.png
-Wing_Mario.png
